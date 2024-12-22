@@ -45,7 +45,6 @@
             };
     };
 
-//0176
     macros {
         gif: gif {
             label = "giphy";
