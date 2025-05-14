@@ -1,3 +1,4 @@
+
 include:
   - board: seeeduino_xiao_ble
     shield: totem_left
@@ -7,4 +8,6 @@ include:
     shield: settings_reset
   - board: seeeduino_xiao_ble
     shield: tester_xiao
+  - board: seeeduino_xiao_ble
+    shield: my_keyboard_dongle
 # there is no settingsreset (needed) for the XIAO
