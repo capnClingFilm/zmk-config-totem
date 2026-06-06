@@ -1,3 +1,5 @@
+#include "totem.dtsi"
+#include "totem.keymap"
 #include <dt-bindings/zmk/matrix_transform.h>
 
 / {
